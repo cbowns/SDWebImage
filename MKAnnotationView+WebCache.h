@@ -16,7 +16,7 @@
 /**
  * Set the imageView `image` with an `url`.
  *
- * The downloand is asynchronous and cached.
+ * The download is asynchronous and cached.
  *
  * @param url The url for the image.
  */
@@ -25,7 +25,7 @@
 /**
  * Set the imageView `image` with an `url` and a placeholder.
  *
- * The downloand is asynchronous and cached.
+ * The download is asynchronous and cached.
  *
  * @param url The url for the image.
  * @param placeholder The image to be set initially, until the image request finishes.
@@ -36,7 +36,7 @@
 /**
  * Set the imageView `image` with an `url`, placeholder and custom options.
  *
- * The downloand is asynchronous and cached.
+ * The download is asynchronous and cached.
  *
  * @param url The url for the image.
  * @param placeholder The image to be set initially, until the image request finishes.
@@ -48,7 +48,7 @@
 /**
  * Set the imageView `image` with an `url`.
  *
- * The downloand is asynchronous and cached.
+ * The download is asynchronous and cached.
  *
  * @param url The url for the image.
  * @param success A block to be executed when the image request succeed This block has no return value and takes the retrieved image as argument.
@@ -59,7 +59,7 @@
 /**
  * Set the imageView `image` with an `url`, placeholder.
  *
- * The downloand is asynchronous and cached.
+ * The download is asynchronous and cached.
  *
  * @param url The url for the image.
  * @param placeholder The image to be set initially, until the image request finishes.
@@ -71,7 +71,7 @@
 /**
  * Set the imageView `image` with an `url`, placeholder and custom options.
  *
- * The downloand is asynchronous and cached.
+ * The download is asynchronous and cached.
  *
  * @param url The url for the image.
  * @param placeholder The image to be set initially, until the image request finishes.
